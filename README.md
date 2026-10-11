@@ -25,7 +25,7 @@ A simple internet speed test website built using Python and Flask. It measures d
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/internet-speed-test.git
+git clone https://github.com/Ronit00/internet-speed-test.git
 cd internet-speed-test
 ```
 
