@@ -70,10 +70,3 @@ Results depend on the selected test server, network conditions, and the speedtes
 - Improved error messages
 - Live website deployment
 
-## Author
-
-YOUR NAME
-
-## License
-
-MIT License (optional; add a LICENSE file if you choose this license).
